@@ -1,0 +1,55 @@
+.jason2{
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center center;
+    background-attachment: fixed;
+    z-index: 1;
+    width: 100vw;
+    filter: blur(1px);
+    height: 100vh;
+
+}
+
+.row{
+    position: absolute;
+    left: 0;    
+    top: 0;
+    right: 0;
+    bottom: 0;
+
+}
+
+.cont{
+    margin: 0;
+    padding: 0;
+}
+.html{
+    height: 50px;
+    width: 50px;
+    margin-left: 15px;
+}
+.css{
+    height: 50px;
+    width: 50px;
+}
+.js{
+    height: 50px;
+    width: 50px;
+
+}
+.bootstp{
+    height: 50px;
+    width: 50px;
+}
+.angular{
+    height: 50px;
+    width: 50px;
+
+}
+.row{
+    margin-top: 40vh;
+
+}

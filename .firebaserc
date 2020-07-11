@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "norberto-hilario": {
+      "hosting": {
+        "NorbertoHilario": [
+          "norberto-hilario"
+        ]
+      }
+    }
+  }
+}
